@@ -1,0 +1,85 @@
+{
+  "units": "1 unit = 1 ft; three.js axes",
+  "camera": {
+    "fov_v": 30.0,
+    "position": [
+      4.5,
+      5.4,
+      30.0
+    ],
+    "target": [
+      4.5,
+      5.4,
+      0.0
+    ],
+    "plate_width": 2400,
+    "plate_height": 1091,
+    "aspect": 2.1998166819431715
+  },
+  "layout": {
+    "door_x": 0.0,
+    "door_w": 3.0,
+    "door_h": 6.666666666666667,
+    "person_x": 3.0,
+    "person_z": 0.7,
+    "banner_left": 4.6,
+    "banner_top": 9.0,
+    "wall_region": [
+      -1.9,
+      12.6
+    ],
+    "max_h": 8.5,
+    "curb_z": 9.0
+  },
+  "view_transform": "AgX",
+  "exposure": 0.05000000074505806,
+  "sun": {
+    "direction_to_light": [
+      -0.42075806856155396,
+      0.7814078330993652,
+      0.4608302712440491
+    ],
+    "energy": 3.200000047683716,
+    "angle_deg": 9,
+    "color": [
+      1.0,
+      0.9599999785423279,
+      0.8999999761581421
+    ]
+  },
+  "hdri": {
+    "file": "bethnal_green_entrance",
+    "blender_rotation_z_deg": 0,
+    "three_environment_rotation_y": 3.141592653589793
+  },
+  "probe": {
+    "white_card_albedo": 0.8,
+    "center": [
+      7.0,
+      7.0
+    ],
+    "display_rgb": [
+      0.7645,
+      0.7669,
+      0.7767
+    ]
+  },
+  "mannequin_height_ft": 6.0,
+  "devices": [
+    "NVIDIA GeForce RTX 5070 Ti"
+  ],
+  "plates": {
+    "desktop": {
+      "file": "plate_desktop.webp",
+      "width": 2400,
+      "height": 1091,
+      "kb": 235
+    },
+    "mobile": {
+      "file": "plate_mobile.webp",
+      "width": 1600,
+      "height": 727,
+      "kb": 137
+    }
+  }
+}
