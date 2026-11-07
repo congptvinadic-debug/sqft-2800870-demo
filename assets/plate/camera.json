@@ -20,9 +20,7 @@
     "door_x": 0.0,
     "door_w": 3.0,
     "door_h": 6.666666666666667,
-    "person_x": 3.0,
-    "person_z": 0.7,
-    "banner_left": 4.6,
+    "banner_left": 3.6,
     "banner_top": 9.0,
     "wall_region": [
       -1.9,
@@ -60,11 +58,10 @@
     ],
     "display_rgb": [
       0.7645,
-      0.7669,
-      0.7767
+      0.7668,
+      0.7764
     ]
   },
-  "mannequin_height_ft": 6.0,
   "devices": [
     "NVIDIA GeForce RTX 5070 Ti"
   ],
@@ -73,7 +70,7 @@
       "file": "plate_desktop.webp",
       "width": 2400,
       "height": 1091,
-      "kb": 235
+      "kb": 237
     },
     "mobile": {
       "file": "plate_mobile.webp",
